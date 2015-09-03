@@ -1,0 +1,7 @@
+Feature F - Something something new exciting feature called F.
+
+ _____         _                  _____
+|   __|___ ___| |_ _ _ ___ ___   |   __|
+|   __| -_| .'|  _| | |  _| -_|  |   __|
+|__|  |___|__,|_| |___|_| |___|  |__|
+
