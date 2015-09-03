@@ -1,1 +1,6 @@
 FeatureG
+
+***Test***
+//Some test here
+
+***End Test***
