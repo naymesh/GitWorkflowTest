@@ -1,0 +1,10 @@
+
+Feature J - Adding Initial Data to work on new workflow of git best practices.
+
+
+Adding Further details.
+
+
+Test should be also added, so adding test as well for this feature J.
+
+As per session, practicing on git workflow and trying to implement it. Thanks.
